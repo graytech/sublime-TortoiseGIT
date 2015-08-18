@@ -1,5 +1,8 @@
 [
-	{ "keys": ["ctrl+alt+c","ctrl+alt+c"], "command": "git_commit" },
-	{ "keys": ["ctrl+alt+c","ctrl+alt+p"], "command": "git_push" },
-	{ "keys": ["ctrl+alt+b"], "command": "git_bash" }
+	{ "keys": ["alt+u"], "command": "git_update" }
+	,{ "keys": ["alt+c"], "command": "git_commit" }
+	,{ "keys": ["alt+r"], "command": "git_revert" }
+
+	// ,{ "keys": ["alt+l"], "command": "svn_log" }
+	// ,{ "keys": ["alt+d"], "command": "svn_diff" }
 ]

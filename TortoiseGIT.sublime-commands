@@ -1,7 +1,7 @@
 [
-	{ "caption": "TortoiseGIT: Clone", "command": "git_clone" },
 	{ "caption": "TortoiseGIT: Commit", "command": "git_commit" },
-	{ "caption": "TortoiseGIT: Push", "command": "git_push" },
 	{ "caption": "TortoiseGIT: Pull", "command": "git_pull" },
-	{ "caption": "TortoiseGIT: Bash", "command": "git_bash" }
+	{ "caption": "TortoiseGIT: Push", "command": "git_push" },
+	{ "caption": "TortoiseGIT: Revert", "command": "git_revert" },
+	{ "caption": "TortoiseGIT: Log", "command": "git_log" }
 ]

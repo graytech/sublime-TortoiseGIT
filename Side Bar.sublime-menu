@@ -1,9 +1,10 @@
 [
 	{ "caption": "-" },
 	{ "caption": "GIT Commit", "command": "git_commit", "args": {"paths":[]}},
-	//{ "caption": "GIT Clone", "command": "git_clone", "args": {"paths":[]}},
 	{ "caption": "GIT Push", "command": "git_push", "args": {"paths":[]}},
-	//{ "caption": "GIT Pull", "command": "git_pull", "args": {"paths":[]}},
-	{ "caption": "GIT Bash", "command": "git_bash", "args": {"paths":[]}},
+	{ "caption": "GIT Pull", "command": "git_pull", "args": {"paths":[]}},
+	{ "caption": "GIT Revert", "command": "git_revert", "args": {"paths":[]}},
+	{ "caption": "GIT Log", "command": "git_log", "args": {"paths":[]}},
+	{ "caption": "GIT Blame", "command": "git_blame", "args": {"paths":[]}},
 	{ "caption": "-", "id": "end" }
 ]
